@@ -1,1 +1,1 @@
-dir
+/dev/random
