@@ -1,1 +1,1 @@
-custom: http://example.com data:text/html,alert('owo')
+custom: [http://example.com, data:text/html,<script>alert('uwu')</script>]
