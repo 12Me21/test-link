@@ -1,1 +1,1 @@
-custom: http://example.com
+custom: http://example.com data:text/html,alert('owo')
